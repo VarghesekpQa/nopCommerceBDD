@@ -1,0 +1,535 @@
+2021-11-12 11:22:21,820 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:22:21,858 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:23:51,279 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:23:51,443 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:23:51,592 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:23:57,211 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:23:59,230 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:23:59,302 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:24:01,617 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 11:24:04,111 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 11:24:04,113 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 11:24:04,209 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:24:04,284 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 11:24:04,352 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 11:24:04,420 [main] INFO NopCommerceBdd - select gender
+2021-11-12 11:24:04,480 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 11:24:04,563 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 11:24:08,808 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 11:24:08,918 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 11:24:08,996 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 11:24:08,997 [main] INFO NopCommerceBdd - click save button
+2021-11-12 11:24:15,750 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:24:15,751 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:24:17,013 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:24:17,018 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:24:17,902 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:24:18,054 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:24:18,157 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:24:20,340 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:24:22,350 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:24:22,420 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:24:25,729 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:24:25,888 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 11:24:29,023 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:24:29,024 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:24:30,452 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:24:30,454 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:24:32,290 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:24:32,412 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:24:32,511 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:24:36,895 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:24:38,900 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:24:38,969 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:24:40,214 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 11:24:40,292 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 11:24:40,358 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 11:24:43,491 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 11:24:43,555 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:24:44,802 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:24:44,806 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:24:46,748 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:24:46,897 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:24:46,993 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:24:51,557 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:24:51,565 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 11:24:56,179 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:24:56,186 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:24:57,431 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:24:57,433 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:24:58,251 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:24:58,356 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:24:58,452 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:25:01,604 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:25:01,612 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 11:25:05,195 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:25:05,203 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:25:06,444 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:25:06,446 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:25:07,257 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:25:07,378 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:25:07,469 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:25:07,953 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:53:02,845 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:53:02,894 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:53:04,842 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:53:05,010 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:53:05,170 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:53:11,310 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:53:13,318 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:53:13,410 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:53:15,010 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 11:53:16,634 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 11:53:16,638 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 11:53:16,877 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:53:17,007 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 11:53:17,132 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 11:53:17,250 [main] INFO NopCommerceBdd - select gender
+2021-11-12 11:53:17,366 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 11:53:17,581 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 11:53:22,073 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 11:53:22,226 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 11:53:22,354 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 11:53:22,356 [main] INFO NopCommerceBdd - click save button
+2021-11-12 11:53:30,295 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:53:30,297 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:53:32,324 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:53:32,328 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:53:33,990 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:53:34,162 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:53:34,314 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:53:37,684 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:53:39,701 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:53:39,792 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:53:43,393 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:53:43,740 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 11:53:46,983 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:53:46,984 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:53:48,473 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:53:48,478 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:53:49,430 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:53:49,582 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:53:49,718 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:53:53,608 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 11:53:55,624 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 11:53:55,726 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 11:53:57,448 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 11:53:57,586 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 11:53:57,730 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 11:54:00,939 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 11:54:01,028 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:54:03,268 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:54:03,275 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:54:05,276 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:54:05,484 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:54:05,630 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:54:10,489 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:54:10,507 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 11:54:16,405 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:54:16,413 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:54:18,290 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:54:18,295 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:54:19,327 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:54:19,561 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:54:19,728 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:54:22,283 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:54:22,309 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 11:54:26,235 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 11:54:26,244 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 11:54:27,945 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:54:27,948 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:54:29,878 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:54:30,068 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:54:30,216 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:54:31,872 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 11:56:38,821 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:56:38,887 [main] INFO NopCommerceBdd - opening url
+2021-11-12 11:56:40,674 [main] INFO NopCommerceBdd - enter email
+2021-11-12 11:56:40,814 [main] INFO NopCommerceBdd - enter password
+2021-11-12 11:56:40,886 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 11:56:45,684 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 11:56:45,687 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:06:21,874 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:06:21,913 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:06:23,607 [main] INFO NopCommerceBdd - enter email
+2021-11-12 12:06:23,708 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:06:23,782 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 12:06:27,948 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 12:06:29,959 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 12:06:30,218 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 12:06:31,158 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 12:06:35,997 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:06:36,001 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:06:36,794 [main] INFO NopCommerceBdd - enter email
+2021-11-12 12:06:36,878 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:06:36,944 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 12:06:40,336 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 12:06:40,360 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 12:06:43,211 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 12:11:39,608 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:11:39,656 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:11:41,569 [main] INFO NopCommerceBdd - enter email
+2021-11-12 12:11:41,748 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:11:41,836 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 12:11:46,265 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 12:11:48,290 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 12:11:48,777 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 12:11:50,909 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 12:11:56,419 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:11:56,432 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:12:46,120 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:12:46,202 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:12:47,389 [main] INFO NopCommerceBdd - enter email
+2021-11-12 12:12:47,640 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:12:47,827 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 12:12:50,679 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 12:12:52,706 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 12:12:52,805 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 12:12:54,223 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 12:12:55,496 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 12:12:55,498 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 12:12:55,610 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:12:55,689 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 12:12:55,768 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 12:12:55,849 [main] INFO NopCommerceBdd - select gender
+2021-11-12 12:12:55,925 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 12:12:56,030 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 12:13:00,349 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 12:13:00,526 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 12:13:00,673 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 12:13:00,676 [main] INFO NopCommerceBdd - click save button
+2021-11-12 12:13:08,219 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 12:13:08,221 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 12:13:10,668 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 12:13:10,673 [main] INFO NopCommerceBdd - opening url
+2021-11-12 12:13:11,573 [main] INFO NopCommerceBdd - enter email
+2021-11-12 12:13:11,743 [main] INFO NopCommerceBdd - enter password
+2021-11-12 12:13:11,864 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 12:13:14,727 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 12:13:14,788 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 12:13:18,508 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 12:13:18,518 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:09:54,300 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:09:54,355 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:09:56,291 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:09:56,524 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:09:56,629 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:10:02,388 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:10:04,395 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:10:04,470 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:10:05,743 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 17:10:06,992 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 17:10:06,994 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 17:10:07,114 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:10:07,189 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 17:10:07,267 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 17:10:07,342 [main] INFO NopCommerceBdd - select gender
+2021-11-12 17:10:07,410 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 17:10:07,509 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 17:10:11,818 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 17:10:11,928 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 17:10:12,011 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 17:10:12,013 [main] INFO NopCommerceBdd - click save button
+2021-11-12 17:10:20,768 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:10:20,770 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:10:22,261 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:10:22,264 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:10:24,281 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:10:24,478 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:10:24,655 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:10:29,497 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:10:31,510 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:10:31,606 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:10:34,871 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:10:35,152 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 17:10:38,288 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:10:38,289 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:10:39,856 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:10:39,859 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:10:40,708 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:10:41,008 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:10:41,105 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:10:44,512 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:10:46,525 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:10:46,645 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:10:47,964 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 17:10:48,048 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 17:10:48,114 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 17:10:51,229 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 17:10:51,298 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:10:52,681 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:10:52,683 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:10:53,620 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:10:53,859 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:10:53,971 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:10:57,055 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:10:57,099 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:11:00,835 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:11:00,841 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:11:02,309 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:11:02,312 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:11:03,259 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:11:03,372 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:11:03,475 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:11:06,402 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:11:06,546 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:11:10,358 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:11:10,368 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:11:11,624 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:11:11,626 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:11:12,423 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:11:12,740 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:11:12,842 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:11:13,353 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:43:04,686 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:04,741 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:08,990 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:08,995 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:10,945 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:43:11,121 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:43:11,225 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:43:17,669 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:43:19,688 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:43:19,772 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:43:20,848 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:20,851 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:22,803 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:43:22,995 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:43:23,100 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:43:27,046 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:43:29,059 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:43:29,143 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:43:30,268 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:30,271 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:31,288 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:43:31,448 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:43:31,603 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:43:34,787 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:43:34,798 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:43:38,764 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:43:38,771 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:43:40,130 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:40,133 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:42,112 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:43:42,381 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:43:42,479 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:43:48,535 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:43:48,542 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:43:52,428 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:43:52,434 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:43:53,656 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:43:53,659 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:43:54,610 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:43:54,828 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:43:54,935 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:43:55,538 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:44:54,342 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:44:54,385 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:44:55,277 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:44:55,470 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:44:55,575 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:44:58,641 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:45:00,652 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:45:00,723 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:45:02,223 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 17:45:05,258 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 17:45:05,260 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 17:45:05,413 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:45:05,487 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 17:45:05,558 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 17:45:05,636 [main] INFO NopCommerceBdd - select gender
+2021-11-12 17:45:05,706 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 17:45:05,792 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 17:45:10,090 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 17:45:10,297 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 17:45:10,413 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 17:45:10,414 [main] INFO NopCommerceBdd - click save button
+2021-11-12 17:45:17,710 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:45:17,711 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:45:18,935 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:45:18,941 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:45:19,851 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:45:20,131 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:45:20,252 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:45:23,007 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:45:25,017 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:45:25,120 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:45:28,391 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:45:28,593 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 17:45:31,735 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 17:45:31,736 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:45:33,318 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:45:33,320 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:45:35,193 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:45:35,326 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:45:35,433 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:45:41,364 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 17:45:43,380 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 17:45:43,515 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 17:45:46,163 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 17:45:46,257 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 17:45:46,322 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 17:45:49,442 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 17:45:49,499 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:45:50,793 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:45:50,796 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:45:52,782 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:45:53,016 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:45:53,117 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:45:57,324 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:45:57,330 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:46:03,143 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:46:03,149 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:46:04,518 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:46:04,522 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:46:06,316 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:46:06,447 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:46:06,545 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:46:11,088 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:46:11,095 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 17:46:14,884 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 17:46:14,890 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 17:46:16,518 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 17:46:16,521 [main] INFO NopCommerceBdd - opening url
+2021-11-12 17:46:17,450 [main] INFO NopCommerceBdd - enter email
+2021-11-12 17:46:17,598 [main] INFO NopCommerceBdd - enter password
+2021-11-12 17:46:17,718 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 17:46:18,320 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:04:08,896 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:04:08,967 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:04:10,980 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:04:11,272 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:04:11,503 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:04:17,069 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:04:19,085 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:04:19,242 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:04:20,986 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 18:04:24,657 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 18:04:24,659 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 18:04:24,871 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:04:25,027 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 18:04:25,180 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 18:04:25,337 [main] INFO NopCommerceBdd - select gender
+2021-11-12 18:04:25,480 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 18:04:25,671 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 18:04:30,194 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 18:04:30,389 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 18:04:30,546 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 18:04:30,548 [main] INFO NopCommerceBdd - click save button
+2021-11-12 18:04:40,815 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:04:40,817 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:04:43,306 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:04:43,313 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:04:45,399 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:04:45,702 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:04:45,907 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:04:51,190 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:04:53,210 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:04:53,352 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:04:57,100 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:04:57,387 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 18:05:00,636 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:05:00,644 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:05:03,034 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:05:03,039 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:05:04,127 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:05:04,387 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:05:04,594 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:05:08,008 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:05:10,023 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:05:10,157 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:05:11,952 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 18:05:12,153 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 18:05:12,281 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 18:05:15,500 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 18:05:15,625 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:05:17,941 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:05:17,946 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:05:19,003 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:05:19,255 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:05:19,468 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:05:24,721 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:05:24,738 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 18:05:28,664 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:05:28,675 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:05:31,019 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:05:31,023 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:05:32,077 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:05:32,391 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:05:32,628 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:05:35,985 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:05:36,014 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 18:05:39,760 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:05:39,771 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:05:41,919 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:05:41,924 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:05:43,030 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:05:43,340 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:05:43,565 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:05:44,248 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:44:09,361 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:44:09,403 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:44:11,168 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:44:11,328 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:44:11,441 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:44:16,505 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:44:18,514 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:44:18,586 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:44:19,814 [main] INFO NopCommerceBdd - click on add new button
+2021-11-12 18:44:20,884 [main] INFO NopCommerceBdd - can view add new customer page
+2021-11-12 18:44:20,885 [main] INFO NopCommerceBdd - eneter email
+2021-11-12 18:44:20,996 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:44:21,071 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 18:44:21,147 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 18:44:21,224 [main] INFO NopCommerceBdd - select gender
+2021-11-12 18:44:21,292 [main] INFO NopCommerceBdd - adding dob
+2021-11-12 18:44:21,387 [main] INFO NopCommerceBdd - enter company name
+2021-11-12 18:44:25,650 [main] INFO NopCommerceBdd - select customer role
+2021-11-12 18:44:25,753 [main] INFO NopCommerceBdd - select vendor
+2021-11-12 18:44:25,840 [main] INFO NopCommerceBdd - enter admin comment
+2021-11-12 18:44:25,841 [main] INFO NopCommerceBdd - click save button
+2021-11-12 18:44:32,696 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:44:32,697 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:44:34,095 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:44:34,098 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:44:36,169 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:44:36,293 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:44:36,399 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:44:42,101 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:44:44,105 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:44:44,172 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:44:48,371 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:44:48,531 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 18:44:51,656 [main] INFO NopCommerceBdd - test case passed
+2021-11-12 18:44:51,657 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:44:53,081 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:44:53,084 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:44:55,590 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:44:55,704 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:44:55,808 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:45:02,213 [main] INFO NopCommerceBdd - user can view dashboard
+2021-11-12 18:45:04,215 [main] INFO NopCommerceBdd - click on customer menu
+2021-11-12 18:45:04,281 [main] INFO NopCommerceBdd - click on customer menu item
+2021-11-12 18:45:05,436 [main] INFO NopCommerceBdd - enter firstname
+2021-11-12 18:45:05,521 [main] INFO NopCommerceBdd - enter lastname
+2021-11-12 18:45:05,590 [main] INFO NopCommerceBdd - click on search button
+2021-11-12 18:45:08,775 [main] INFO NopCommerceBdd - searchable name found
+2021-11-12 18:45:08,833 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:45:10,182 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:45:10,186 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:45:11,288 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:45:11,421 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:45:11,518 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:45:16,425 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:45:16,432 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 18:45:20,982 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:45:20,989 [main] INFO NopCommerceBdd - closing browser
+2021-11-12 18:45:22,411 [main] INFO NopCommerceBdd - lanuching browser
+2021-11-12 18:45:22,413 [main] INFO NopCommerceBdd - opening url
+2021-11-12 18:45:24,360 [main] INFO NopCommerceBdd - enter email
+2021-11-12 18:45:24,498 [main] INFO NopCommerceBdd - enter password
+2021-11-12 18:45:24,591 [main] INFO NopCommerceBdd - click on login button
+2021-11-12 18:45:27,365 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:45:27,372 [main] INFO NopCommerceBdd - click on logout button
+2021-11-12 18:45:31,032 [main] INFO NopCommerceBdd - test case failed
+2021-11-12 18:45:31,038 [main] INFO NopCommerceBdd - closing browser
